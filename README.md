@@ -1,5 +1,9 @@
 # Online Retail Sales Analysis
 
+## Dashboard Preview
+
+![dashboard](Tableau/dashboard.png)
+
 ## Project Overview
 
 This project analyzes over 500,000 online retail transactions to identify sales trends, customer behavior, product performance, and international revenue using Python, SQL, and Tableau.
@@ -134,9 +138,3 @@ Created an interactive dashboard including:
 - Dashboard Design
 - Business Analysis
 - Data Storytelling
-
----
-
-## Dashboard Preview
-
-![dashboard](Tableau/dashboard.png)
