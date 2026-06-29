@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project analyzes over 500,000 online retail transactions to identify sales trends, customer behavior, product performance, and international revenue using Python, SQL, and Tableau.
+This project analyzes over 500,000 online retail transactions to uncover sales trends, identify high-value customers, evaluate product performance, and provide business recommendations. The analysis demonstrates an end-to-end data analytics workflow using Python, SQL, and Tableau.
 
 The project follows a complete analytics workflow from data cleaning to business recommendations and demonstrates the tools and techniques commonly used by data analysts.
 
@@ -111,7 +111,10 @@ Created an interactive dashboard including:
 
 ## Key Findings
 
-- Total revenue exceeded **$8.8 million**.
+- Generated more than $8.8 million in total revenue across 19,000+ orders.
+- Identified strong seasonal demand, with revenue peaking during October and November.
+- Discovered that a single customer contributed significantly more revenue than all others, highlighting the importance of customer retention.
+- Found that international revenue was concentrated in a small number of countries, suggesting opportunities for targeted marketing.
 - More than **19,000 customer orders** were analyzed.
 - Revenue peaked during **October and November**, indicating strong seasonal demand.
 - Customer **18102** generated significantly more revenue than any other customer.
@@ -127,6 +130,10 @@ Created an interactive dashboard including:
 - Develop promotional campaigns during slower sales months to reduce seasonality.
 - Expand advertising and marketing efforts in international markets.
 - Maintain inventory levels for the highest-performing products.
+- Strengthen customer retention strategies for high-value customers.
+- Maintain inventory levels for top-performing products to reduce stockouts.
+- Expand marketing efforts in international markets with existing customer demand.
+- Launch promotional campaigns during slower months to reduce seasonal fluctuations.
 ---
 
 ## Skills Demonstrated
